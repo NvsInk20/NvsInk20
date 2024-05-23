@@ -7,7 +7,7 @@ Saya bertanggung jawab atas kualitas saya, selama saya bekerja di suatu perusaha
 
 Saya juga memiliki gelar sebagai Android Developer, sejak 2025. <br>
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Github] (https://www.github.com/Rivai20Ramadhan) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Github] (https://www.github.com/NvsInk20) ku ya.
 
 ### Github Statistic
 <p align="left">
