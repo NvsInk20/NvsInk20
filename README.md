@@ -1,11 +1,11 @@
 ### Hallo semua 👋
 
 Perkenalkan nama saya **Muhammad Rivai Putra Ramadhan**.<br>
-Saya Seorang **Android Developer** di Perusahaan Ternama. <br>
+Saya Seorang **Front-End Web Developer Junior**. <br>
 
 Saya bertanggung jawab atas kualitas saya, selama saya bekerja di suatu perusahaan. <br>
 
-Saya juga memiliki gelar sebagai Android Developer, sejak 2025. <br>
+Saya menekuni untuk belajar menjadi Front-End Web Developer, sejak 2018. <br>
 
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Github] (https://www.github.com/NvsInk20) ku ya.
 
